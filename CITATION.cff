@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Dynamic Pattern Alignment (DPA)"
+authors:
+  - family-names: "Gartz"
+    given-names: "Andre"
+  - family-names: "ChatGPT"
+    given-names: "OpenAI"
+date-released: 2025-01-01
+url: "https://github.com/humancoreai/Dynamic-Pattern-Alignment"
+version: "1.0.0"
