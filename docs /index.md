@@ -2,7 +2,7 @@
 ### A Systems-Theoretic Framework for Safe Control of Generative and Autonomous AI
 
 **Version:** 1.1 (EN)  
-**Author:** HumanCoreAI  
+**Author:** HumanCoreAI 
 **Original German Version:** 1.0 (DE)  
 **Status:** Public Technical Draft (Static Release)
 
