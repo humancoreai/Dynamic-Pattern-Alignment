@@ -1,5 +1,5 @@
 
-# **Dynamic Pattern Alignment (DPA)** 
+# **Dynamic Pattern Alignment (DPA)**  
 ### A Systems-Theoretic Framework for Safe Control of Generative and Autonomous AI
 
 **Version:** 1.1 (EN)  
