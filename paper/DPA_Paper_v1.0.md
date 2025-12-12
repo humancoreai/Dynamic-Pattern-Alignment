@@ -293,6 +293,12 @@ kann DPA einen zentralen Beitrag zur Entwicklung sicherer, leistungsfähiger KI-
 
 Dieses Dokument markiert Version 1.0 des Konzepts und dient als Grundlage für zukünftige Erweiterungen, Implementierungen und empirische Tests.
 
+Hinweis zum Alignment-Experiment
+Die methodische Einordnung und der experimentelle Rahmen dieses Projekts sind in dpa_alignment.md beschrieben.
+Das Dokument erläutert den Alignment-Begriff im Kontext des DPA-Experiments sowie die nicht-normative, explorative Zielsetzung der Analysen.
+
+
+
 ---
 
 
