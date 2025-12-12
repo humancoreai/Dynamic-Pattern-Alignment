@@ -194,7 +194,9 @@ A future update will include:
 
 an English paper version
 
-possibly translations into other languages
+possibly translations into other languages„
+
+
 
 
 
