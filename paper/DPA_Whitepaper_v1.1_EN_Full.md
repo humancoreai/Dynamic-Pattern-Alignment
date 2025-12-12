@@ -560,3 +560,7 @@ Rigidity Spectrum
 Value-Gradient Divergence
 
 Emergence Acceleration Index
+
+Alignment Experiment Notice
+The methodological context and experimental framing of this project are documented in dpa_alignment.md.
+The file defines the concept of alignment within the DPA experiment and clarifies the non-normative, exploratory nature of the analyses.
