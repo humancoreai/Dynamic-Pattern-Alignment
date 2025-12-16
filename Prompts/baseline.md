@@ -26,3 +26,14 @@ Rules:
 
 ## Input
 [INSERT INPUT HERE]
+
+---
+
+## Note
+
+This baseline does not represent a truly neutral model state.
+Observed behavior may still reflect default optimization biases
+(e.g. explanatory structure, didactic formatting).
+
+The purpose of this baseline is not neutrality,
+but a consistent reference point for comparative analysis.
