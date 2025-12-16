@@ -249,6 +249,68 @@ If you use this repository in academic work, please cite:
 
 
 ---
+# Dynamic Pattern Alignment (DPA)
+
+Dynamic Pattern Alignment (DPA) is an experimental framework
+for observing alignment behavior and pattern stability in AI systems.
+
+DPA does not attempt to define intelligence or correctness.
+Instead, it focuses on how systems respond to external constraints,
+rule changes, feedback, and stress.
+
+---
+
+## Repository Structure
+
+- `src/`  
+  Core analysis modules used to observe rigidity, pattern shifts,
+  and alignment behavior.
+
+- `prompts/`  
+  Controlled prompt stimuli used to provoke specific response patterns.
+  Prompts are treated as experimental inputs, not optimization tricks.
+
+- `experiments/`  
+  Documented experimental runs applying DPA to specific models.
+
+- `paper/`  
+  Conceptual and theoretical background material.
+
+---
+
+## Experiment: Gemini DPA v1
+
+A complete experimental run using the DPA framework
+is documented in: experiments/gemini_dpa_v1.md
+
+
+The experiment follows a fixed sequence:
+
+Baseline → Structure → Self-Critique → External Critique → Time Pressure
+
+and demonstrates that alignment behavior in the tested model
+is primarily externally regulated rather than self-calibrating.
+
+---
+
+## Core Idea
+
+DPA assumes that:
+- observable alignment is pattern-based, not intention-based
+- stability emerges through external constraints
+- self-critique does not imply reliable self-monitoring
+
+The framework is model-agnostic and intended for comparative analysis.
+
+---
+
+## Disclaimer
+
+This repository documents observations, not claims.
+No statements about consciousness, intent, or general intelligence
+are implied.
+
+
 
 
 
